@@ -5,4 +5,5 @@ Una vez clonado el proyecto:
 2) Para ejecutar la app tiene dos opciones:
 
   a) npm start (si hay cambios se debe restartear la app)
+  
   b) nodemon bin/www (se ejecuta la app y se modifican los cambios en caliente)
